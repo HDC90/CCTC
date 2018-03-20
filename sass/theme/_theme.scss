@@ -1,0 +1,20 @@
+// SCSS Syntax http://sass-lang.com/documentation/file.SASS_REFERENCE.html#css_extensions
+
+// variable declaration in SCSS we use variables to keep style clean and easy to modify
+// if we use this variable to say 50 rules and want to change the color, we would change only this variable.
+
+// This is an empty scss file for your custom styles - Please add your super duper awesome mega design styles here
+.full-width-sidebar-wrapper {
+    width: 100%;
+}
+div #bubbles, #text-sports, #recentposts {
+    padding: 4rem 0; 
+    //background: #000;
+    //height: 400px;
+}
+
+div .wrapper {
+    /*border-bottom: 5px dashed black ;
+    border-top: 5px dashed black ;*/
+}
+
