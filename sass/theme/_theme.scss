@@ -19,7 +19,17 @@ div #wrapper-news {
     margin-top: 60px;
 }
 
+
 .navbar {
     padding: 2rem;
 }
 
+.form-control {
+    border-radius: 0px;
+}
+
+div #wrapper-form {
+    background-color: $dark;
+    color: $white;
+
+}
