@@ -122,11 +122,7 @@ gulp.task('watch', function () {
     gulp.watch([basePaths.dev + 'js/**/*.js','js/**/*.js','!js/theme.js','!js/theme.min.js'], ['scripts']);
 
     //Inside the watch task.
-<<<<<<< HEAD
-    //gulp.watch('./img/**', ['imagemin'])
-=======
     gulp.watch('./img/**', ['imagemin'])
->>>>>>> 79ad006... init
 });
 
 // Run:
