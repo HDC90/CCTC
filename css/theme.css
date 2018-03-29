@@ -9482,9 +9482,10 @@ div #bubbles, #text-sports, #recentposts {
   padding: 4rem 0; }
 
 div #wrapper-news {
-  /*border-bottom: 5px dashed black ;
-    border-top: 5px dashed black ;*/
-  margin-top: 60px; }
+  margin-top: 72px; }
+
+div #full-width-page-wrapper, #wrapper-index, #single-wrapper {
+  margin-top: 80px; }
 
 .navbar {
   padding: 2rem; }
