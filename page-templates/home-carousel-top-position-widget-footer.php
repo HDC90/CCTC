@@ -40,13 +40,13 @@ get_header();
 
 <!-- Seconde section - Image sexy -->
 <div class="wrapper-fluid">
-	<img src="https://www.tc-chevrycossigny.fr/wp-content/themes/cctc/img/home-tennis.png" alt="" class="img-fluid full-width-image">
+	<img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/home-tennis.png" alt="" class="img-fluid full-width-image">
 </div>
 		
 <!-- /Seconde section -->
 <!-- Troisieme section - messages market + Twitter widget -->
 <div class="wrapper">
-	<div class="container-fluid">
+	<div class="container">
 		<h2 class="text-center align-items-center">Liens utiles</h2>
 		<div id="text-sports" class="row text-center align-items-center Thirdsec">
 			<div class="col col-xs-6">
