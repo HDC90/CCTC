@@ -22,15 +22,15 @@ get_header();
 	<div class="container">
 		<div id="bubbles" class="row text-center align-items-center firstsec">
 			<div class="col-md-4 col-xs-6">
-				<img src="./wp-content/themes/cctc/img/cctc-matchs-par-equipes.png" alt="" class="rounded-circle">
+				<img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/cctc-matchs-par-equipes.png" alt="" class="rounded-circle">
 					<p class="h4 mt-3">MATCHS PAR ÉQUIPE</p>
 			</div>
 			<div class="col-md-4 col-xs-6">
-				<img src="./wp-content/themes/cctc/img/cctc-nos-installations.png" alt="" class="rounded-circle">
+				<img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/cctc-nos-installations-copy.png" alt="" class="rounded-circle">
 					<p class="h4 mt-3">NOS INSTALLATIONS</p>
 			</div>
 			<div class="col-md-4 col-xs-6">
-				<img src="./wp-content/themes/cctc/img/cctc-tournois.png" alt="" class="rounded-circle">
+				<img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/cctc-tournois.png" alt="" class="rounded-circle">
 					<p class="h4 mt-3">TOURNOIS</p>
 			</div>
 		</div>
@@ -40,7 +40,7 @@ get_header();
 
 <!-- Seconde section - Image sexy -->
 <div class="wrapper-fluid">
-	<img src="./wp-content/themes/cctc/img/home-tennis.png" alt="" class="img-fluid full-width-image">
+	<img src="https://www.tc-chevrycossigny.fr/wp-content/themes/cctc/img/home-tennis.png" alt="" class="img-fluid full-width-image">
 </div>
 		
 <!-- /Seconde section -->
@@ -50,23 +50,23 @@ get_header();
 		<h2 class="text-center align-items-center">Liens utiles</h2>
 		<div id="text-sports" class="row text-center align-items-center Thirdsec">
 			<div class="col col-xs-6">
-				<a href="https://mon-espace-tennis.fft.fr/"><img src="./wp-content/themes/cctc/img/mon-espace-tennis.png" alt="" class="img-fluid"></a>
+				<a href="https://mon-espace-tennis.fft.fr/"><img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/espace-tennis.png" alt="" class="img-fluid"></a>
 				<p class="h4 mt-3">Mon Espace Tennis</p>
 			</div>
 			<div class="col col-xs-6">
-				<a href="https://adoc.app.fft.fr/adoc/"><img src="./wp-content/themes/cctc/img/adoc-fft.png" alt="" class="img-fluid"></a>
+				<a href="https://adoc.app.fft.fr/adoc/"><img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/adoc-fft.png" alt="" class="img-fluid"></a>
 				<p class="h4 mt-3">Adoc</p>
 			</div>
 			<div class="col col-xs-6">
-				<a href="http://www.gs.applipub-fft.fr/fftfr/frameset.do?dispatch=load"><img src="./wp-content/themes/cctc/img/gestion-sportive.png" alt="" class="img-fluid"></a>
+				<a href="http://www.gs.applipub-fft.fr/fftfr/frameset.do?dispatch=load"><img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/gestion-sportive-.png" alt="" class="img-fluid"></a>
 				<p class="h4 mt-3">Gestion sportive</p>
 			</div>
 			<div class="col col-xs-6">
-				<a href="https://www.escapetennis.com"><img src="./wp-content/themes/cctc/img/escape-tennis.png" alt="" class="img-fluid"></a>
+				<a href="https://www.escapetennis.com"><img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/escape-tennis.png" alt="" class="img-fluid"></a>
 				<p class="h4 mt-3">Escape</p>
 			</div>
 			<div class="col col-xs-6">
-				<a href="http://www.comite.fft.fr/seine-et-marne/seine-et-marne_a/cms/index_public.php?us_action=show_note_site&login_off=1&ui_id_site=1"><img src="./wp-content/themes/cctc/img/FFT-seine-et-marne-ligue.png" alt="" class="img-fluid"></a>
+				<a href="http://www.comite.fft.fr/seine-et-marne/seine-et-marne_a/cms/index_public.php?us_action=show_note_site&login_off=1&ui_id_site=1"><img src="https://www.tc-chevrycossigny.fr/wp-content/uploads/2018/03/FFT-seine-et-marne-ligue-1.png" alt="" class="img-fluid"></a>
 				<p class="h4 mt-3">Site de la Ligue</p>
 			</div>
 		</div>
