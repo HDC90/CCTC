@@ -9514,6 +9514,9 @@ div #wrapper-form {
   background-color: #595F72;
   color: #fff; }
 
+.dropdown-menu {
+  border-radius: 0px; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
